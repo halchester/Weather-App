@@ -1,3 +1,8 @@
+# Weather App
+
+This is a simple weather app with reactJS. You can get the API here : https://openweathermap.org/
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
